@@ -1,0 +1,408 @@
+Uri: https://admin.brizy.io/customfile/81f7ac911ec2dbb43e79e1866d31f103f371b843be20880cc9aee2f0e7f6ea5e/Sylvi-Solana.mp3
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\customfile\81f7ac911ec2dbb43e79e1866d31f103f371b843be20880cc9aee2f0e7f6ea5e\Sylvi-Solana.mp3
+Content Type: audio/mpeg
+
+Uri: https://b-cloud.b-cdn.net/builds/free/303-cloud/editor/css/group-2_3.min.css
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\builds\free\303-cloud\editor\css\group-2_3.min.css
+Content Type: text/css
+
+Uri: https://b-cloud.b-cdn.net/builds/free/303-cloud/editor/js/group-2_3.min.js
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\builds\free\303-cloud\editor\js\group-2_3.min.js
+Content Type: text/javascript
+
+Uri: https://b-cloud.b-cdn.net/builds/pro/177-cloud/css/preview.pro.min.css
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\builds\pro\177-cloud\css\preview.pro.min.css
+Content Type: text/css
+
+Uri: https://b-cloud.b-cdn.net/builds/pro/177-cloud/js/preview.pro.min.js
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\builds\pro\177-cloud\js\preview.pro.min.js
+Content Type: text/javascript
+
+Uri: https://cloud-1de12d.b-cdn.net/media/iW=180&iH=any/5efcc96e64ec13127e27c1907445c61b.svg
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\media\iW=180&iH=any\5efcc96e64ec13127e27c1907445c61b.svg
+Content Type: image/svg+xml
+
+Uri: https://cloud-1de12d.b-cdn.net/media/iW=192&iH=any/4351ed8f060aa803476241b725b3e037.svg
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\media\iW=192&iH=any\4351ed8f060aa803476241b725b3e037.svg
+Content Type: image/svg+xml
+
+Uri: https://cloud-1de12d.b-cdn.net/media/iW=256&iH=256/5efcc96e64ec13127e27c1907445c61b.svg
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\media\iW=256&iH=256\5efcc96e64ec13127e27c1907445c61b.svg
+Content Type: image/svg+xml
+
+Uri: https://cloud-1de12d.b-cdn.net/media/iW=32&iH=any/4351ed8f060aa803476241b725b3e037.svg
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\media\iW=32&iH=any\4351ed8f060aa803476241b725b3e037.svg
+Content Type: image/svg+xml
+
+Uri: https://cloud-1de12d.b-cdn.net/media/iW=5000&iH=any/2d07bd23cca1c5a5628edb8c68cc13e3/Roadmap.png
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\media\iW=5000&iH=any\2d07bd23cca1c5a5628edb8c68cc13e3\Roadmap.png
+Content Type: image/png
+
+Uri: https://cloud-1de12d.b-cdn.net/media/iW=5000&iH=any/3d6aeeb21c2beff1248a8c7695a5e5b1/92215.png
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\media\iW=5000&iH=any\3d6aeeb21c2beff1248a8c7695a5e5b1\92215.png
+Content Type: image/png
+
+Uri: https://cloud-1de12d.b-cdn.net/media/iW=5000&iH=any/5efcc96e64ec13127e27c1907445c61b/42rfwsgerrert.svg
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\media\iW=5000&iH=any\5efcc96e64ec13127e27c1907445c61b\42rfwsgerrert.svg
+Content Type: image/svg+xml
+
+Uri: https://cloud-1de12d.b-cdn.net/media/original/2d07bd23cca1c5a5628edb8c68cc13e3/Roadmap.png
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\media\original\2d07bd23cca1c5a5628edb8c68cc13e3\Roadmap.png
+Content Type: image/png
+
+Uri: https://cloud-1de12d.b-cdn.net/media/original/3d6aeeb21c2beff1248a8c7695a5e5b1/92215.png
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\media\original\3d6aeeb21c2beff1248a8c7695a5e5b1\92215.png
+Content Type: image/png
+
+Uri: https://cloud-1de12d.b-cdn.net/media/original/4351ed8f060aa803476241b725b3e037/rrrer-fix.svg
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\media\original\4351ed8f060aa803476241b725b3e037\rrrer-fix.svg
+Content Type: image/svg+xml
+
+Uri: https://cloud-1de12d.b-cdn.net/media/original/5033f91586bbcc527c7abdb18d04d483/Main.svg
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\media\original\5033f91586bbcc527c7abdb18d04d483\Main.svg
+Content Type: image/svg+xml
+
+Uri: https://cloud-1de12d.b-cdn.net/media/original/9e111e8a56f8e720abbbd385a773bcf9/42452352etr24.svg
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\media\original\9e111e8a56f8e720abbbd385a773bcf9\42452352etr24.svg
+Content Type: image/svg+xml
+
+Uri: https://cloud-1de12d.b-cdn.net/media/original/aee88acb9d22132f0ba98d2254d28abb/3453.svg
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\media\original\aee88acb9d22132f0ba98d2254d28abb\3453.svg
+Content Type: image/svg+xml
+
+Uri: https://cloud-1de12d.b-cdn.net/media/original/d4e095730ab99f16c8d5418438cff667/92215.png
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\media\original\d4e095730ab99f16c8d5418438cff667\92215.png
+Content Type: image/png
+
+Uri: https://fonts.bunny.net/css?family=Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic|Reem Kufi:regular,500,600,700&subset=arabic,bengali,cyrillic,cyrillic-ext,devanagari,greek,greek-ext,gujarati,hebrew,khmer,korean,latin-ext,tamil,telugu,thai,vietnamese&display=swap
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\css
+Content Type: text/css
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-100-italic.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-100-italic.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-100-italic.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-100-italic.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-100-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-100-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-100-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-100-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-300-italic.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-300-italic.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-300-italic.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-300-italic.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-300-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-300-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-300-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-300-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-400-italic.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-400-italic.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-400-italic.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-400-italic.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-400-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-400-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-700-italic.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-700-italic.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-700-italic.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-700-italic.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-700-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-700-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-700-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-700-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-900-italic.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-900-italic.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-900-italic.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-900-italic.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-900-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-900-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-900-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-900-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-100-italic.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-100-italic.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-100-italic.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-100-italic.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-100-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-100-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-100-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-100-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-300-italic.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-300-italic.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-300-italic.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-300-italic.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-300-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-300-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-300-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-300-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-400-italic.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-400-italic.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-400-italic.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-400-italic.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-400-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-400-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-700-italic.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-700-italic.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-700-italic.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-700-italic.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-700-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-700-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-700-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-700-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-900-italic.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-900-italic.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-900-italic.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-900-italic.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-900-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-900-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lato/files/lato-latin-ext-900-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\lato\files\lato-latin-ext-900-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-arabic-400-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-arabic-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-arabic-400-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-arabic-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-arabic-500-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-arabic-500-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-arabic-500-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-arabic-500-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-arabic-600-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-arabic-600-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-arabic-600-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-arabic-600-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-arabic-700-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-arabic-700-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-arabic-700-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-arabic-700-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-latin-400-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-latin-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-latin-400-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-latin-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-latin-500-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-latin-500-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-latin-500-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-latin-500-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-latin-600-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-latin-600-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-latin-600-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-latin-600-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-latin-700-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-latin-700-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-latin-700-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-latin-700-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-latin-ext-400-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-latin-ext-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-latin-ext-400-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-latin-ext-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-latin-ext-500-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-latin-ext-500-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-latin-ext-500-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-latin-ext-500-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-latin-ext-600-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-latin-ext-600-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-latin-ext-600-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-latin-ext-600-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-latin-ext-700-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-latin-ext-700-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-latin-ext-700-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-latin-ext-700-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-vietnamese-400-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-vietnamese-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-vietnamese-400-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-vietnamese-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-vietnamese-500-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-vietnamese-500-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-vietnamese-500-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-vietnamese-500-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-vietnamese-600-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-vietnamese-600-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-vietnamese-600-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-vietnamese-600-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-vietnamese-700-normal.woff
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-vietnamese-700-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/reem-kufi/files/reem-kufi-vietnamese-700-normal.woff2
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\reem-kufi\files\reem-kufi-vietnamese-700-normal.woff2
+Content Type: font/woff2
+
+Uri: https://www.sylvi.tech/
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\index.htm
+Content Type: text/html
+
+Uri: https://www.sylvi.tech/icon/21242781/editor/close-popup.svg
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\icon\21242781\editor\close-popup.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sylvi.tech/icon/21242781/fa/telegram.svg
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\icon\21242781\fa\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sylvi.tech/icon/21242781/fa/x-twitter.svg
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\icon\21242781\fa\x-twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sylvi.tech/icon/21242781/fa/youtube.svg
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\icon\21242781\fa\youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sylvi.tech/icon/21242781/glyph/button-pause.svg
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\icon\21242781\glyph\button-pause.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sylvi.tech/icon/21242781/glyph/button-play.svg
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\icon\21242781\glyph\button-play.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sylvi.tech/icon/21242781/glyph/logo-github.svg
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\icon\21242781\glyph\logo-github.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sylvi.tech/icon/21242781/glyph/volume-97.svg
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\icon\21242781\glyph\volume-97.svg
+Content Type: image/svg+xml
+
+Uri: https://www.sylvi.tech/icon/21242781/glyph/volume-ban.svg
+File Name: C:\Downloaded Web Sites\www.sylvi.tech\icon\21242781\glyph\volume-ban.svg
+Content Type: image/svg+xml
+
